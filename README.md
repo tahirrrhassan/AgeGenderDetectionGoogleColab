@@ -1,4 +1,4 @@
-# AgeGenderDetectionGoogleColab
+# Age & Gender Detection using Google Colab
 Realtime Age and Gender detection using Open CV and pre-trained models through Google Colab
 
 Age Detection Model: age_deploy.prototxt | modelNweight/age_net.caffemodel
