@@ -47,8 +47,8 @@ pip install numpy pandas matplotlib scikit-learn tensorflow keras
 
 1. Clone the repository:
    ```bash
-   git clone <repository_url>
-   cd <repository_folder>
+   git clone "https://github.com/tahirrrhassan/AgeGenderDetectionGoogleColab/"
+   cd AgeGenderDetectionGoogleColab/
    ```
 
 2. Launch Jupyter Notebook:
