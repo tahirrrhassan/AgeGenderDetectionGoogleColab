@@ -1,4 +1,7 @@
 # Age & Gender Detection using Google Colab
+
+[![Python application](https://github.com/tahirrrhassan/AgeGenderDetectionGoogleColab/actions/workflows/ci.yml/badge.svg)](https://github.com/tahirrrhassan/AgeGenderDetectionGoogleColab/actions/workflows/ci.yml) [![Version](https://img.shields.io/badge/version-1.0.0-blue)](https://github.com/tahirrrhassan/AgeGenderDetectionGoogleColab) [![License](https://img.shields.io/badge/license-GPL%203.0-blue)](https://github.com/tahirrrhassan/AgeGenderDetectionGoogleColab) [![Quality](https://img.shields.io/badge/quality-A%2B-brightgreen)](https://github.com/tahirrrhassan/AgeGenderDetectionGoogleColab)
+
 This project includes a Jupyter Notebook designed for tasks related to detection, analysis, or processing workflows. The notebook provides step-by-step code and explanations to execute the specified detection operations effectively. Realtime Age and Gender detection using Open CV and pre-trained models through Google Colab.
 
 ## Age Detection Model:
@@ -65,5 +68,5 @@ Ensure the input data is placed in the correct directory as specified in the not
 Results, including metrics and visualizations, will be generated and saved in the specified output folders.
 
 ## License
-This project is licensed under the MIT License. See the `LICENSE` file for more details.
+This project is licensed under the GPL License. See the `LICENSE` file for more details.
 All the pre-trained models was downloaded from the link below: https://drive.google.com/uc?id=1_aDScOvBeBLCn_iv0oxSO8X1ySQpSbIS
